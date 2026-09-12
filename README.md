@@ -34,12 +34,12 @@
 
 1. اذهب إلى قسم **[Releases](../../releases)** في يمين الصفحة لتحميل أحدث ملف تعريب مضغوط.
 2. قم بفك الضغط عن الملف المرفق.
-3. قم بنسخ المجلد المسمى (`PhantomDoctrine`) المرفق مع التعريب.
-4. اذهب إلى المجلد الرئيسي للعبة والصقه هناك مباشرة (وافق على الاستبدال إذا طُلِب منك ذلك).
+3. قم بنسخ المجلد المسمى (`IWTB`) المرفق مع التعريب.
+4. اذهب إلى المجلد الرئيسي للعبة والصقه هناك مباشرة (سينتقل ملف التعريب إلى مكانه المقصود تلقائياً، ووافق على الاستبدال إذا طُلِب منك ذلك).
 
 > **المسارات الافتراضية للمجلد الرئيسي للعبة:**  
-> 📌 **نسخة GOG Galaxy:** `C:\Program Files\GOG Galaxy\Games\Phantom Doctrine`  
-> 📌 **نسخة ستيم (Steam):** `C:\Program Files (x86)\Steam\steamapps\common\Phantom Doctrine`
+> 📌 **نسخة ستيم (Steam):** `C:\Program Files (x86)\Steam\steamapps\common\Phantom Doctrine`  
+> 📌 **نسخة GOG Galaxy:** `C:\Program Files\GOG Galaxy\Games\Phantom Doctrine`
 
 ---
 
